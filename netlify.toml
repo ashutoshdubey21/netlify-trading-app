@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+# if you have a build step, add build.command = "npm run build"
